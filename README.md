@@ -3,7 +3,9 @@
 <!-- SOLID PRINCIPAL -->
 SOLID Principle Explantion
 <table>
+<tr>
 <tb>S- Single Responsible Principal</tb>
+</tr>
 O- Open close Principle
 L- Leskon Substuation Principal
 I- Interface Segmented Principal
