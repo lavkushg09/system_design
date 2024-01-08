@@ -4,16 +4,16 @@
 SOLID Principle Explantion
 <table>
     <tr>
-    <tb>S- Single Responsible Principal</tb>
+    <tb> S- Single Responsible Principal</tb>
     </tr>
     <tr>
-    <td>O- Open close Principle </td>
+    <td> O- Open close Principle </td>
     </tr>
     <tr>
-    <td>L- Leskon Substuation Principal</td>
+    <td> L- Leskon Substuation Principal</td>
     </tr>
-<td><tr>I- Interface Segmented Principal</td>
+<tr><td>I- Interface Segmented Principal</td>
     </tr>
-<td><tr>D- Dependency Inversion Principal</td>
+<tr><td>D- Dependency Inversion Principal</td>
     </tr>
 </table>
